@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.dred{
+    display: flex;
+    align-items: center;
+    padding-left: 20%;
+    
+}
+.fel{
+    background-color: grey;
+   padding: 20px;
+}
+.mar{
+    background-color: rgb(1, 1, 43);
+    color: white; 
+    padding: 20px;
+}
+.free{
+    display: flex;
+    padding-left: 70%;
+}
+.left{
+    background-color: gold;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 30px;
+    margin-right: 10px;
+}
+ .do{
+    text-align: center;
+}
+.mv{
+    text-align: center;
+}
+.right{
+    background-color: rgb(1, 1, 43);
+        border-radius: 20px;
+        padding: 10px;
+        color: white;
+        font-size: 30px;
+}
+.str{
+    color: gold;
+}
+.customer h1 p{
+    padding-left: 40px;
+}

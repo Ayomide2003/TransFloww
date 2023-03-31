@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.trans{
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+}
+img{
+    width: 230px;
+    padding-top: 20px;
+}
+.transport h3{
+    text-align: center;
+}
+.big{
+    background-color: gold;
+    height: 200px;
+   position: relative;
+   bottom: 70px;
+}
+.tr{
+    background-color: rgb(1, 1, 57);
+    color: white;
+    margin-left: 50%;
+    margin-top: 5%;
+    padding: 10px;
+}

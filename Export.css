@@ -1,0 +1,55 @@
+.exp{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.reel{
+    text-align: center;
+}
+.vr{
+    background: black;
+    color: white;
+    width:61%;
+    position: relative;
+    bottom: 40px;
+}
+.fr{
+background: black;
+    color: white;
+    width: 58%;
+    position: relative;
+    bottom: 40px;
+}
+.ja{
+background: black;
+    color: white;
+    width: 61%;
+    position: relative;
+    bottom: 40px;
+}
+.ing{
+    width: 230px;
+
+}
+.src-one{
+    background-color: gold;
+    padding: 9px;
+    position: relative;
+    bottom: 60px;
+    right: 70px;
+}
+.src-two{
+background-color: gold;
+    padding: 12px;
+    position: relative;
+    bottom: 60px;
+    right: 70px;
+}
+.src-three{
+background-color: gold;
+    padding: 9px;
+    position: relative;
+    bottom: 60px;
+    right: 70px;
+    margin-left: 18px;
+}

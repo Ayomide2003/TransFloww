@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+.navbar{
+    background-color: darkblue;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   height: 100px;
+   position: sticky;
+   z-index: 1;
+   font-weight: 400;
+   padding: 10px;
+}
+.navbar h3{
+    color: white;
+}
+.options{
+    padding: 10px;
+}
+.header-middle{
+display: inline-flex;
+padding: 20px;
+color: white;
+}
+.fa{
+    background-color: rgb(3, 3, 163);
+    border-radius: 20px;
+    padding: 5px;
+    font-size: 25px;
+    color: orange;
+}
+.p-tag{
+    padding: 20px;
+    color: white;
+}

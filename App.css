@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bg{
+    background-image: url(./8-Major-Types-of-Cargo-Transported-Through-the-Shipping-Industry.png);
+    height: 600px;
+    background-size: cover;
+}
+.bag{
+    background-image: url(./8-Major-Types-of-Cargo-Transported-Through-the-Shipping-Industry.png);
+    height: 250px;
+    background-size: cover;
+}

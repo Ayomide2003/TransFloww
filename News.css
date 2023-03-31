@@ -1,0 +1,20 @@
+.new{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid rgb(167, 165, 165);
+}
+ p h2{
+text-align: center;
+}
+.alt{
+    color: burlywood;
+    font-size: 40px;
+}
+.more-btn{
+    background-color: darkblue;
+    padding: 10px;
+    color: white;
+    margin-left: 50%;
+    margin-top: 10px;
+}

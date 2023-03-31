@@ -1,0 +1,25 @@
+.und{
+    display: flex;
+    align-items: center;
+    background-color: rgb(1, 1, 47);
+    color: white;
+}
+.btn{
+    background-color: gold;
+
+}
+input{
+    background-color: rgb(1, 1, 47);
+    color: white;
+    margin: 10px;
+    padding: 5px;
+}
+.message{
+    height: 50px;
+    width: 74%;
+}
+.prime{
+   border-left: 1px solid orange;
+   background-color: rgb(3, 3, 83);
+   width: 12%;
+}

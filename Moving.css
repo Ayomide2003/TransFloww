@@ -1,0 +1,40 @@
+.moving{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.moving{
+    display: flex;
+    padding: 30px;
+}
+.row{
+    background-color: rgb(1, 1, 54);
+    height: 300px;
+    width: 50%;
+}
+.cour{
+    background-color: grey;
+    width: 50%;
+    height: 300px;
+    padding: 30px 100px;
+}
+.img{
+    width: 430px;
+    position: relative;
+    height: 250px;
+    left: 350px;
+    margin-top: 15px;
+}
+.het{
+    display: flex;
+    justify-content: space-around;
+}
+.move-btn{
+    background-color: gold;
+    width: 10%;
+}
+.get{
+    background-color: gold;
+    padding: 5px;
+    border-radius: 20px;
+}

@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.body-two{
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    position: relative;
+    bottom:  130px;
+    padding: 30px;
+}
+.box{
+    
+    background-color: gold;
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 5px;
+}
+.mon{
+    background-color: gold;
+        border-radius: 20px;
+        font-size: 20px;
+        padding: 5px;
+}
+.sq{
+    color: gold;
+    font-size: 12px;
+}
+.pick{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    
+}
+.pri{
+    border-left: 2px solid orange;
+}
